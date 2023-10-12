@@ -1,0 +1,30 @@
+1)ESXTOP and its uses.
+2)what is iscsi and port number for it
+3)what is HBA
+4)ESXI PSOD
+5)Root account locked issue resolution(which log file to check)
+6)Host is having Enough storage on datastore and while performing upgrade or any task it is showing storage full no space left
+but running df -h is showing enough space what can be the issue
+7)consolidation is failing what need to check
+8)difference between vmkernel and port group
+9)what is MTU, and normal and maximum value what is the use of MTU, how many frames etc..
+10)vmotion failure possibly causes..
+11)difference between vmkping and normal ping
+12)how to check if port is open or not in esxcli command?
+13)use of 902 port and it is a tcp or udp
+14)vm is lagging what can be the issue related to i/O how to detect it
+15)dns Zones and their uses.
+16)esxi upgrade process from cli and gui
+17)command to check esxi host version
+18)what is FT and prerequisites and if vc down would u be able to use FT
+19)HA and FT difference.
+20)what is vmotion and svmotion
+21)any knowledge on linux kvm machines.
+22)different types of log file on host and for which issue which logs need to be checked.
+23)if not able to ping 1 host in a 3 host cluster what to check and how to check if the vmnic is down or working fine how to identify it any commands for that.
+24)if mtu mismatch what can be the issues you can face
+25) Hardware-related issues in dell, HP what need to be checked.
+26)what is RDM, can we take snapshot of a VM which have rdm disk attached to it.
+6:15
+27)Difference between ova and ovf
+28)what role inode play, what is inode
